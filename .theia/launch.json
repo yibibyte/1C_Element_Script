@@ -1,0 +1,87 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "sbsl",
+            "name": "Новая конфигурация",
+            "stopOnEntry": false,
+            "request": "attach",
+            "args": []
+        },
+        {
+            "type": "sbsl",
+            "name": "Скрипт1.sbsl#Скрипт",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Скрипт1.sbsl",
+            "args": [],
+            "method": "Скрипт"
+        },
+        {
+            "type": "sbsl",
+            "name": "Скрипт1.sbsl#Script",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Скрипт1.sbsl",
+            "args": [],
+            "method": "Script"
+        },
+        {
+            "type": "sbsl",
+            "name": "",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Скрипт1.sbsl",
+            "args": [],
+            "method": "ИмяМетода"
+        },
+        {
+            "type": "sbsl",
+            "name": "Скрипт2.sbsl",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Скрипт2.sbsl",
+            "args": []
+        },
+        {
+            "type": "sbsl",
+            "name": "ОДНОМЕРНЫЙ МАССИВ.sbsl",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "ОДНОМЕРНЫЙ МАССИВ.sbsl",
+            "args": []
+        },
+        {
+            "type": "sbsl",
+            "name": "ОДНОМЕРНЫЙ_МАССИВ.sbsl",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "ОДНОМЕРНЫЙ_МАССИВ.sbsl",
+            "args": []
+        },
+        {
+            "type": "sbsl",
+            "name": "ДВУМЕРНЫЙ_МАССИВ.sbsl",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "ДВУМЕРНЫЙ_МАССИВ.sbsl",
+            "args": []
+        },
+        {
+            "type": "sbsl",
+            "name": "ЦИКЛ_СО_СЧЕТЧИКОМ.sbsl",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "ЦИКЛ_СО_СЧЕТЧИКОМ.sbsl",
+            "args": []
+        },
+        {
+            "type": "sbsl",
+            "name": "ДЕМО-ПРОГРАММА.sbsl",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "ДЕМО-ПРОГРАММА.sbsl",
+            "args": []
+        }
+    ]
+}
